@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator Site
 A Password Generator site.
 
 ## Description
